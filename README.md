@@ -1,16 +1,42 @@
-# metro_project
+# 🚇 Metro Guide Mobile Application
 
-A new Flutter project.
+A Flutter-based mobile app that helps users navigate the Cairo Metro system with ease. The app provides route planning, nearest station detection, and ticket pricing based on passenger type.
 
-## Getting Started
+# ✨ Features
 
-This project is a starting point for a Flutter application.
+📍 Select departure & arrival stations
 
-A few resources to get you started if this is your first Flutter project:
+🧭 Find the best metro route
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🏷️ Ticket pricing 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+♿ Accessibility support
+
+🔎 Nearest station finder
+
+📌 Destination address search
+
+🗺️ Interactive map
+
+# 🛠️ Tech Stack
+
+Framework: Flutter (Dart)
+
+IDE: Android Studio / VS Code
+
+Platform: Android & iOS
+
+# 📸 App Preview
+Here’s a quick look at  Metro Guide:
+
+<img width="825" height="758" alt="Group 1" src="https://github.com/user-attachments/assets/bcfd0dad-b8e1-4bfa-b644-cb418ab3d97d" />
+
+# 🚀 Getting Started
+
+git clone https://github.com/Rawan-TarekSobhy/metro-guide-mobile-app.git
+
+cd metro-guide-mobile-app
+
+flutter pub get
+
+flutter run
